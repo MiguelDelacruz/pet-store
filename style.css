@@ -1,0 +1,20 @@
+body {
+  background-color: green;
+  align-content: center;
+  background-size: 100px;
+}
+
+#all-pets {
+  color: blue;
+  background-size: 80px;
+}
+
+.individual-pet {
+  font-family: arial;
+  padding-top: 25%;
+  text-align: center;
+  background-position: center; 
+  margin: 20px;
+  color: yellow;
+  background-size: 80px 80px;
+}
