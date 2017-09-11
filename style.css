@@ -1,20 +1,27 @@
 body {
-  background-color: green;
+  background-color: purple;
   align-content: center;
   background-size: 100px;
+  text-align: center;
 }
 
 #all-pets {
   color: blue;
-  background-size: 80px;
 }
 
 .individual-pet {
   font-family: arial;
-  padding-top: 25%;
+  padding: 50px;
   text-align: center;
-  background-position: center;
-  margin: 20px;
+  margin: auto;
   color: yellow;
-  background-size: 80px 60px;
+  width: 60%;
+  height: auto;
+   border: 3px solid #73AD21;
+}
+
+.individual-pet img {
+  width: 100%;
+  height: auto;
+  align-content: center;
 }
