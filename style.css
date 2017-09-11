@@ -1,23 +1,31 @@
 body {
-  background-color: purple;
+  background-color: skyblue;
   align-content: center;
   background-size: 100px;
   text-align: center;
 }
+h1 {
+  color: red;
+  font-family: Courier;
+}
 
-#all-pets {
-  color: blue;
+
+#all-pets h3{
+  color: limegreen;
+  font-weight: bold;
 }
 
 .individual-pet {
+  font-size: bold;
   font-family: arial;
   padding: 50px;
   text-align: center;
   margin: auto;
-  color: yellow;
+  color: darkblue;
   width: 60%;
   height: auto;
-   border: 3px solid #73AD21;
+  border: 3px solid #000000;
+
 }
 
 .individual-pet img {
